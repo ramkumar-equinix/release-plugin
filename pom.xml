@@ -34,8 +34,8 @@
 	</dependencies>
 
  <scm>
-    <connection>scm:git:ssh://ramkumar@github.com:ramkumar-equinix/release-plugin.git</connection>
-    <developerConnection>scm:git:ssh://ramkumar@github.com:ramkumar-equinix/release-plugin.git</developerConnection>
+    <connection>scm:git:ssh://github.com/ramkumar-equinix/release-plugin.git</connection>
+    <developerConnection>scm:git:ssh://github.com/ramkumar-equinix/release-plugin.git</developerConnection>
     <tag>mkp-consumer-proxy-1.00</tag>
   </scm>
   
