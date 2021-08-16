@@ -33,11 +33,11 @@
 		</dependency>
 	</dependencies>
 
- <scm>
-    <connection>scm:git:ssh://ramkumar-equinix@github.com/release-plugin.git</connection>
-    <developerConnection>scm:git:ssh://ramkumar-equinix@github.com/release-plugin.git</developerConnection>
-    <tag>mkp-consumer-proxy-1.00</tag>
-  </scm>
+  <scm>
+   <connection>scm:git:git@github.com:ramkumar-equinix/release-plugin.git</connection>
+   <url>scm:git:git@github.com:ramkumar-equinix/release-plugin.git</url>
+   <developerConnection>scm:git:git@github.com:ramkumar-equinix/release-plugin.git</developerConnection>
+</scm>
   
   <build>
     <plugins>
